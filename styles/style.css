@@ -80,7 +80,7 @@
   display: grid;
   width: 1440px;
   height: 757px;
-  background-image: url(/Users/ad.nina/dev/ono-tebe-nado/images/cover.jpg);
+  background-image: url(../images/cover.jpg);
   background-size: 100%;
   background-position: center;
 }
@@ -160,11 +160,10 @@
   gap: 8px;
   width: 257px;
   height: 52px;
-  border: 1px solid #fff;
+  border: 1px solid white;
   border-radius: 0px;
-  color: #fff;
-  background-color: transparent;
   color: white;
+  background-color: transparent;
   text-transform: uppercase;
   text-align: center;
   font-family: Raleway;
@@ -223,19 +222,19 @@ h3 {
 }
 
 .card_type_film {
-  background-image: url(/Users/ad.nina/dev/ono-tebe-nado/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
   background-size: 100%;
   background-position: center;
 }
 
 .card_type_book {
-  background-image: url(/Users/ad.nina/dev/ono-tebe-nado/images/card-lot-02.jpg);
+  background-image: url(../images/card-lot-02.jpg);
   background-size: 100%;
   background-position: center;
 }
 
 .card_type_picture {
-  background-image: url(/Users/ad.nina/dev/ono-tebe-nado/images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-03.jpg);
   background-size: 100%;
   background-position: center;
 }
